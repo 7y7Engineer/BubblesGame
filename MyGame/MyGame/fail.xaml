@@ -1,0 +1,19 @@
+﻿<Page x:Class="MyGame.fail"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:MyGame"
+      mc:Ignorable="d" 
+      Height="600" Width="960" ShowsNavigationUI="False"
+      Title="fail" KeepAlive="False">
+    <Page.Background>
+        <ImageBrush ImageSource="C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\Images\field2.png" Stretch="UniformToFill"/>
+    </Page.Background>
+    <StackPanel HorizontalAlignment="Center" VerticalAlignment="Center">
+        <TextBlock FontFamily="Arial" Margin="10" Foreground="Red" FontSize="40" HorizontalAlignment="Center">Вы проиграли</TextBlock>
+        <TextBlock Name="tb_score" FontFamily="Arial" Margin="10" Foreground="Red" FontSize="24" HorizontalAlignment="Center">Счет: </TextBlock>
+        <Button Name="bt_replay" Click="Bt_replay_Click"  Padding="80,10" Margin="20" >Играть снова</Button>
+        <Button Name="bt_goToMenu" Click="bt_goToMenu_Click"  Padding="50,10" Margin="20">Вернуться в меню</Button>
+    </StackPanel>
+</Page>

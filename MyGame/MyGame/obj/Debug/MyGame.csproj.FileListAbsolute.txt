@@ -1,0 +1,84 @@
+C:\Users\Алексей\source\repos\MyGame\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\Алексей\source\repos\MyGame\MyGame\bin\Debug\MyGame.exe
+C:\Users\Алексей\source\repos\MyGame\MyGame\bin\Debug\MyGame.pdb
+C:\Users\Алексей\source\repos\MyGame\MyGame\obj\Debug\MainWindow.g.cs
+C:\Users\Алексей\source\repos\MyGame\MyGame\obj\Debug\App.g.cs
+C:\Users\Алексей\source\repos\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.cache
+C:\Users\Алексей\source\repos\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.lref
+C:\Users\Алексей\source\repos\MyGame\MyGame\obj\Debug\MainWindow.baml
+C:\Users\Алексей\source\repos\MyGame\MyGame\obj\Debug\MyGame.g.resources
+C:\Users\Алексей\source\repos\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+C:\Users\Алексей\source\repos\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+C:\Users\Алексей\source\repos\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Алексей\source\repos\MyGame\MyGame\obj\Debug\MyGame.exe
+C:\Users\Алексей\source\repos\MyGame\MyGame\obj\Debug\MyGame.pdb
+C:\Users\Алексей\source\repos\MyGame\MyGame\obj\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\Dima\source\repos\MyGame\MyGame\obj\Debug\MainWindow.g.cs
+C:\Users\Dima\source\repos\MyGame\MyGame\obj\Debug\menu.g.cs
+C:\Users\Dima\source\repos\MyGame\MyGame\obj\Debug\App.g.cs
+C:\Users\Dima\source\repos\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.cache
+C:\Users\Dima\source\repos\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.lref
+C:\Users\Dima\source\repos\MyGame\MyGame\obj\Debug\MyGame.exe
+C:\Users\Dima\source\repos\MyGame\MyGame\obj\Debug\MyGame.pdb
+C:\Users\Dima\source\repos\MyGame\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\Dima\source\repos\MyGame\MyGame\bin\Debug\MyGame.exe
+C:\Users\Dima\source\repos\MyGame\MyGame\bin\Debug\MyGame.pdb
+C:\Users\Dima\source\repos\MyGame\MyGame\obj\Debug\MainWindow.baml
+C:\Users\Dima\source\repos\MyGame\MyGame\obj\Debug\menu.baml
+C:\Users\Dima\source\repos\MyGame\MyGame\obj\Debug\MyGame.g.resources
+C:\Users\Dima\source\repos\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+C:\Users\Dima\source\repos\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+C:\Users\Dima\source\repos\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Dima\source\repos\MyGame\MyGame\obj\Debug\game.g.cs
+C:\Users\Dima\source\repos\MyGame\MyGame\obj\Debug\game.baml
+C:\Users\Dima\source\repos\MyGame\MyGame\obj\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\Алексей\source\repos\MyGame\MyGame\obj\Debug\fail.g.cs
+C:\Users\Алексей\source\repos\MyGame\MyGame\obj\Debug\game.g.cs
+C:\Users\Алексей\source\repos\MyGame\MyGame\obj\Debug\menu.g.cs
+C:\Users\Алексей\source\repos\MyGame\MyGame\obj\Debug\fail.baml
+C:\Users\Алексей\source\repos\MyGame\MyGame\obj\Debug\game.baml
+C:\Users\Алексей\source\repos\MyGame\MyGame\obj\Debug\menu.baml
+C:\Users\Dima\source\repos\MyGame\MyGame\obj\Debug\fail.g.cs
+C:\Users\Dima\source\repos\MyGame\MyGame\obj\Debug\fail.baml
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\bin\Debug\MyGame.exe
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\bin\Debug\MyGame.pdb
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\obj\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\obj\Debug\fail.g.cs
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\obj\Debug\game.g.cs
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\obj\Debug\menu.g.cs
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\obj\Debug\App.g.cs
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.cache
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.lref
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\obj\Debug\fail.baml
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\obj\Debug\game.baml
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\obj\Debug\MainWindow.baml
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\obj\Debug\menu.baml
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\obj\Debug\MyGame.g.resources
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\obj\Debug\MyGame.exe
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGame\MyGame\MyGame\obj\Debug\MyGame.pdb
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\bin\Debug\MyGame.exe.config
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\bin\Debug\MyGame.exe
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\bin\Debug\MyGame.pdb
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\obj\Debug\MyGame.csprojAssemblyReference.cache
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\obj\Debug\fail.g.cs
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\obj\Debug\game.g.cs
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\obj\Debug\MainWindow.g.cs
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\obj\Debug\menu.g.cs
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\obj\Debug\App.g.cs
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.cache
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\obj\Debug\MyGame_MarkupCompile.lref
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\obj\Debug\fail.baml
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\obj\Debug\game.baml
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\obj\Debug\MainWindow.baml
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\obj\Debug\menu.baml
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\obj\Debug\MyGame.g.resources
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.cache
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\obj\Debug\MyGame.csproj.CoreCompileInputs.cache
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\obj\Debug\MyGame.exe
+C:\Users\Админ\Desktop\books\3йкурс2йсеместр\СПО С#\LAB\MyGameLera2\MyGame\MyGame\obj\Debug\MyGame.pdb
